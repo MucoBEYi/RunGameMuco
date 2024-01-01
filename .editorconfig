@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0642: Hatalı olabilecek boş deyim
+dotnet_diagnostic.CS0642.severity = warning
